@@ -2,7 +2,7 @@
 
 ## Win-NGS: A portal for NGS (Next-Generation Sequencing) tools that run on Windows.
 
-**https://win-ngs.github.io/**
+Click the right link to enter the site: **https://win-ngs.github.io/**
 
 Most NGS tools assume Linux or macOS, and information about running them natively on
 Windows is scattered. This site collects in one place:

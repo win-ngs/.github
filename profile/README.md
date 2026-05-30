@@ -1,6 +1,6 @@
-![Win-NGS banner](assets/win-ngs-banner.jpg)
-
 ## Win-NGS: A portal for NGS (Next-Generation Sequencing) tools that run on Windows.
+
+![Win-NGS banner](assets/win-ngs-banner.jpg)
 
 Click the URL to enter the site: **https://win-ngs.github.io/**
 

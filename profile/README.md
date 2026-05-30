@@ -1,12 +1,20 @@
-## Hi there 👋
+![Win-NGS banner](assets/win-ngs-banner.jpg)
 
-<!--
+# Win-NGS
 
-**Here are some ideas to get you started:**
+A portal site for **NGS (Next-Generation Sequencing) analysis tools that run on Windows**.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Live site: **https://win-ngs.github.io/**
+
+Most NGS tools assume Linux or macOS, and information about running them natively on
+Windows is scattered. This site collects in one place:
+
+- Tools that work on Windows out of the box (official Windows binaries)
+- Binaries we compiled ourselves from upstream sources
+- Curated links to useful external tools
+
+## License
+
+The portal site (this repository) is provided as-is for reference.
+Each distributed binary inherits the license of its upstream project — please
+review the upstream license before use.
